@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
-        android:allowBackup="true"
-        android:icon="@android:drawable/ic_menu_myplaces"
+        android:icon="@android:drawable/ic_menu_info_details"
         android:label="MicInjector"
-        android:supportsRtl="true"
-        android:theme="@android:style/Theme.Material.Light"
-        tools:targetApi="34">
+        android:theme="@android:style/Theme.Material.Light">
 
         <activity
             android:name=".MainActivity"
@@ -25,9 +21,6 @@
         <meta-data
             android:name="xposedminversion"
             android:value="93" />
-        <meta-data
-            android:name="xposeddescription"
-            android:value="Hook麦克风" />
 
     </application>
 
