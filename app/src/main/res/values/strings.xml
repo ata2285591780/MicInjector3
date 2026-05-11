@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MicInjector</string>
+    <string name="enabled">Enabled</string>
+    <string name="target_packages">Target Packages</string>
+    <string name="target_packages_hint">com.example.app1,com.example.app2</string>
+    <string name="audio_source">Audio Source</string>
+    <string name="file_source">Audio File</string>
+    <string name="system_capture">System Audio Capture</string>
+    <string name="select_audio_file">Select Audio File</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="play_mode">Play Mode</string>
+    <string name="mode_once">Play Once</string>
+    <string name="mode_loop">Loop Play</string>
+    <string name="mode_ptt">Push to Talk</string>
+    <string name="loop_enabled">Loop Audio</string>
+    <string name="volume">Volume</string>
+    <string name="floating_window">Floating Window</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="service_running">Service Running</string>
+    <string name="service_stopped">Service Stopped</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_playing">Playing</string>
+    <string name="status_paused">Paused</string>
+    <string name="hold_to_talk">Hold to Talk</string>
+    <string name="speaking">Speaking...</string>
+    <string name="recording">Recording</string>
+    <string name="close">Close</string>
+    <string name="minimize">Minimize</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="stop">Stop</string>
+    <string name="current_file">Current File</string>
+    <string name="mic_injector">Mic Injector</string>
+    <string name="description">Hook指定应用的麦克风输入，实现语音包实时注入</string>
+</resources>
